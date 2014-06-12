@@ -1,0 +1,9 @@
+-r requirements.txt
+
+flake8
+psycopg2
+mock
+pycountry 
+coveralls
+coverage
+trytond_nereid_test>=3.0,<3.1
