@@ -7,3 +7,5 @@ pycountry
 coveralls
 coverage
 trytond_nereid_test>=3.0,<3.1
+
+.
