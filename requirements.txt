@@ -4,3 +4,6 @@
 # The default version of CCY module does not install because of empty
 # white space at the end of setup.py.
 svn+http://ccy.googlecode.com/svn/trunk/#egg=ccy
+
+# Install this module itself 
+.
